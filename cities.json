@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Minsk",
+        "country": "Belarus",
+        "is_big": true,
+        "people_count": 2020000
+    },
+    {
+        "id": "2",
+        "name": "Brest",
+        "country": "Belarus",
+        "is_big": true,
+        "people_count": 339500
+    },
+    {
+        "id": "3",
+        "name": "Barselona",
+        "country": "Spain",
+        "is_big": true,
+        "people_count": 1628000
+    },
+    {
+        "id": "4",
+        "name": "Novolukoml",
+        "country": "Belarus",
+        "is_big": false,
+        "people_count": 12000
+    },
+    {
+        "id": "5",
+        "name": "Asos",
+        "country": "Greece",
+        "is_big": false,
+        "people_count": 99000
+    },
+    {
+        "id": "6",
+        "name": "Kingsbury",
+        "country": "USA",
+        "is_big": false,
+        "people_count": 5276
+    }
+]
